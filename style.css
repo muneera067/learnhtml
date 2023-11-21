@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.nav-logo{
+    height:80px;
+}
+.mass-body{
+    background-image:url("");
+}
+.item-nav{
+    color:rgb(58, 245, 52);;;
+    font-size:25px;
+    font-family:'Encode Sans',sans-serif;
+}
+.item-nav:hover{
+    color:red;
+}
+.anchor{
+    margin-left:auto;
+}
+.body-section{
+    height:20vh;
+}
+.box-left{
+    color:black;
+    height:50px;
+    text-align:right;
+    padding-left:15px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+.box-right{
+    height:20px;
+}
+.img-logo{
+    height:50vh;
+    padding-left:25px;
+}
+.s-h1{
+    padding-top:250px;
+    padding-right:25px;
+    font-family:'Open Sans', sans-serif;
+    font-size:30px;
+    text-align:center;
+}
+.skills-ul{
+    font-size:20px;
+    padding-right:32px;
+    padding-left:80px;
+}
+.c-h1{
+    font-family:'Open Sans', sans-serif;
+    font-size:30px;
+    text-align:center;
+}
+.courses-sub-con{
+
+    display: flex;
+    flex-direction: row;
+}
+.courses-card{
+    padding:20px;
+}
+.cc-h1{
+    font-size:30px;
+    color:blueviolet;
+}
+.cc-p{
+    font-family:'Encode Sans',sans-serif;
+    font-size:18px;
+}
+.img-icon{
+    height:80px;
+    text-align:center;
+}
+.img-icon:hover{
+    color:darkseagreen;
+}
+.contact {
+    text-align: center;
+}
+.ser-h1{
+    font-family:'Encode Sans',sans-serif ;
+    font-size:30px;
+}
+.ser-p{
+    font-family:'Encode Sans',sans-serif;
+    font-size:18px;
+}
+.social-icon{
+    padding:12px;
+}
+.social-icon-img {
+    height: 15vh;
+    padding: 10px;
+    justify-content:space-around;
+}
+.social-icon-img:hover{
+    color:black;
+}
